@@ -9,16 +9,16 @@ var cars = [
 ];
 
 var table = function(array){
-    var content = "<tr>";
+    var content = "<thead><tr>";
     for(item in array[0]){
         content += "<th>" + item + "</th>"
     }
-    content += "</tr>";
+    content += "</tr></thead>";
     var mapped = array.map(
         function(items){
             var list = "<tr>";
             for(key in items){
-                list += "<th>"+items[key]+"</th>"
+                list += "<td>"+items[key]+"</td>"
             }
             list += "</tr>";
             return list;
