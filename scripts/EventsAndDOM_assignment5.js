@@ -37,7 +37,11 @@ document.getElementById("lessThanButton").addEventListener("click", function (ev
                 return car.price < document.getElementById("lessThanPrice").value;
             }
         );
-        tableHTML.innerHTML = table(filteredArray);
+        if (filteredArray.length > 0) {
+            tableHTML.innerHTML = table(filteredArray);
+        }else{
+            tableHTML.innerText = "You idiot, there is no car below that price! Use your eyes";
+        }
         event.preventDefault();
     } else {
         event.preventDefault();

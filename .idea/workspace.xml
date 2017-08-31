@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a3665309-9b50-4944-8c3d-b8bdd9eaefe2" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/EventsAndDOM_assignment5.html" afterPath="$PROJECT_DIR$/EventsAndDOM_assignment5.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scripts/EventsAndDOM_assignment5.js" afterPath="$PROJECT_DIR$/scripts/EventsAndDOM_assignment5.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -87,8 +86,8 @@
       <file leaf-file-name="EventsAndDOM_assignment5.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/scripts/EventsAndDOM_assignment5.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="561">
-              <caret line="33" column="61" lean-forward="false" selection-start-line="33" selection-start-column="61" selection-end-line="33" selection-end-column="61" />
+            <state relative-caret-position="714">
+              <caret line="42" column="55" lean-forward="false" selection-start-line="42" selection-start-column="55" selection-end-line="42" selection-end-column="55" />
               <folding />
             </state>
           </provider>
@@ -306,12 +305,12 @@
       <workItem from="1503906620053" duration="9918000" />
       <workItem from="1504002030316" duration="14140000" />
       <workItem from="1504100552708" duration="395000" />
-      <workItem from="1504160600307" duration="2727000" />
+      <workItem from="1504160600307" duration="3000000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30109000" />
+    <option name="totallyTimeSpent" value="30382000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="953" y="0" width="974" height="1047" extended-state="0" />
@@ -588,8 +587,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/scripts/EventsAndDOM_assignment5.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="33" column="61" lean-forward="false" selection-start-line="33" selection-start-column="61" selection-end-line="33" selection-end-column="61" />
+        <state relative-caret-position="714">
+          <caret line="42" column="55" lean-forward="false" selection-start-line="42" selection-start-column="55" selection-end-line="42" selection-end-column="55" />
           <folding />
         </state>
       </provider>
