@@ -1,8 +1,12 @@
 var display = document.getElementById("display");
 
 var calculatorFunc = function (event) {
-    if (event.innerHTML !== "=") {
-        display.innerHTML += event.innerHTML;
+    var target = event.target;
+    if(target.id === "buttons"){
+        return;
+    }
+    if (target.innerHTML !== "=") {
+        display.innerHTML += target.innerHTML;
     }else{
         var str = display.innerHTML;
         if(str.indexOf("+") > 0){
